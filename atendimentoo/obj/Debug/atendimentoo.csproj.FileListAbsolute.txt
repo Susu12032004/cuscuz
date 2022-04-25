@@ -1,1 +1,7 @@
 C:\Users\Tecnico\Desktop\atendimentoo\atendimentoo\bin\Debug\atendimentoo.exe.config
+C:\Users\Tecnico\Desktop\cuscuz\atendimentoo\bin\Debug\atendimentoo.exe.config
+C:\Users\Tecnico\Desktop\cuscuz\atendimentoo\obj\Debug\atendimentoo.csprojResolveAssemblyReference.cache
+C:\Users\Tecnico\Desktop\cuscuz\atendimentoo\bin\Debug\atendimentoo.exe
+C:\Users\Tecnico\Desktop\cuscuz\atendimentoo\bin\Debug\atendimentoo.pdb
+C:\Users\Tecnico\Desktop\cuscuz\atendimentoo\obj\Debug\atendimentoo.exe
+C:\Users\Tecnico\Desktop\cuscuz\atendimentoo\obj\Debug\atendimentoo.pdb

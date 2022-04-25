@@ -10,6 +10,8 @@ namespace atendimentoo
     {
         static void Main(string[] args)
         {
+            Paciente fila = new Paciente();
+            fila.cadastroFila();
         }
     }
 }
